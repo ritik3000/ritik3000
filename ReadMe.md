@@ -41,7 +41,7 @@ Like-minded **builders and founders** who:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=ritik3000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=ritik3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritik3000&theme=dark&hide_border=false)
 
