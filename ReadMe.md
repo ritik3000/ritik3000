@@ -1,13 +1,12 @@
 # 💫 About Me
 
-I’m currently exploring and working with **early-stage startups** across **FinTech, WealthTech, Insurance, and Vertical AI Agents**.  
+I’m currently exploring and working with **early-stage startups** across **FinTech, Insurance, Hardware and Vertical AI Agents**.  
 I enjoy thinking from **zero to one**, shaping product ideas, and turning ambiguity into working systems.
 
 ## 🤝 Looking to Collaborate With
 
 Like-minded **builders and founders** who:
-
-- Believe in creating **new products**, not just features  
+ 
 - Have a **strong builder mindset**  
 - Are actively **working on or starting something new**  
 - Value **speed, ownership, and first-principles thinking**
@@ -16,6 +15,12 @@ Like-minded **builders and founders** who:
 
 - **Potential co-founders** with aligned mindset and values  
 - People interested in **exploring new venture ideas together**
+
+## 💼 Experience
+
+- **Amazon**
+- **Cisco** 
+- **Ally.io (Microsoft)** 
 
 ## 💬 Ask Me About
 
@@ -42,9 +47,4 @@ Like-minded **builders and founders** who:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritik3000&theme=dark&hide_border=false&layout=compact&hide=Jupyter%20Notebook)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ritik3000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ritik3000&icon=0&color=0)](https://visitcount.itsvg.in)
 
