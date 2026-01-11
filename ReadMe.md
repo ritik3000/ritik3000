@@ -43,8 +43,6 @@ Like-minded **builders and founders** who:
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=ritik3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritik3000&theme=dark&hide_border=false)
-
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritik3000&theme=dark&hide_border=false&layout=compact&hide=Jupyter%20Notebook)
 
 
