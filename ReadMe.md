@@ -19,8 +19,9 @@ Like-minded **builders and founders** who:
 ## 💼 Experience
 
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 
 ## 💬 Ask Me About
